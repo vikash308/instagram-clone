@@ -4,7 +4,7 @@
 
 A responsive and visually appealing clone of Instagram's user interface. This project mimics the core layout and design of Instagram, including features like the feed, explore, reels, notifications, messages, and profile pages.
 
-🔗[ See website ][(https://vikash308.github.io/instagram-clone/]
+🔗[ See website ](https://vikash308.github.io/instagram-clone/)
 
 ## 🚀 Features
 
